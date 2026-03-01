@@ -1,4 +1,4 @@
-# ⚡ XAND.AI — v0.1
+#  XAND.AI — v0.1
 
 > *"Insanidade é fazer as mesmas coisas e esperar resultados diferentes."*
 
@@ -7,7 +7,7 @@ Não é um chatbot genérico — é um alter ego digital treinado com os **seus 
 
 ---
 
-## 🧠 O que é o XAND.AI?
+##  O que é o XAND.AI?
 
 A ideia central é simples: **quanto mais você usa e registra, mais inteligente ele fica sobre você.**
 
@@ -21,17 +21,17 @@ Tudo isso vira contexto real para o modelo de linguagem — nada de conselhos ge
 
 ---
 
-## ✨ Funcionalidades v0.1
+##  Funcionalidades v0.1
 
-- 💬 **Múltiplos chats** com histórico salvo localmente (SQLite)
-- 🎯 **Chat de Rotina** dedicado a planejamento inteligente
-- 📅 **Painel de rotina semanal** com agenda, metas e progresso
-- 📋 **Registro diário** — energia, foco, horas de estudo, o que foi bem e o que melhorar
-- 📊 **Métricas em tempo real** na sidebar (energia média, foco, horas, taxa de acerto)
-- 🎙️ **Input por voz** — fale em vez de digitar (Whisper local)
-- 🔊 **Resposta por voz** — XAND.AI responde em áudio (PT-BR)
-- 🧩 **Sistema de decisões** — registre escolhas e resultados para a IA aprender seus padrões
-- 🔒 **100% local** — seus dados nunca saem do seu computador
+-  **Múltiplos chats** com histórico salvo localmente (SQLite)
+-  **Chat de Rotina** dedicado a planejamento inteligente
+-  **Painel de rotina semanal** com agenda, metas e progresso
+-  **Registro diário** — energia, foco, horas de estudo, o que foi bem e o que melhorar
+-  **Métricas em tempo real** na sidebar (energia média, foco, horas, taxa de acerto)
+-  **Input por voz** — fale em vez de digitar (Whisper local)
+-  **Resposta por voz** — XAND.AI responde em áudio (PT-BR)
+-  **Sistema de decisões** — registre escolhas e resultados para a IA aprender seus padrões
+-  **100% local** — seus dados nunca saem do seu computador
 
 ---
 
@@ -48,7 +48,7 @@ Tudo isso vira contexto real para o modelo de linguagem — nada de conselhos ge
 
 ---
 
-## 🚀 Instalação
+## 🚀Instalação
 
 ### Pré-requisitos
 
@@ -102,10 +102,10 @@ xand-ai/
 
 ---
 
-## 📊 Como a IA aprende sobre você
+##  Como a IA aprende sobre você
 
 ### Registro diário
-Clique em 📋 e preencha ao final de cada dia:
+Clique em  e preencha ao final de cada dia:
 - Nível de energia e foco (0-10)
 - Horas de estudo e questões resolvidas
 - O que foi bem e o que precisa melhorar
@@ -130,7 +130,7 @@ Cole sua rotina no formato estruturado e o XAND.AI a usa para planejar e cobrar.
 
 ---
 
-## 🔧 Configuração
+##  Configuração
 
 ### Trocar o modelo de linguagem
 Em `backend/llm.py`:
@@ -141,7 +141,7 @@ MODEL = "mistral"      # padrão
 ```
 
 ### Ativar clonagem de voz
-1. Clique em 🎤 no app
+1. Clique em  no app
 2. Grave 30+ segundos da sua voz
 3. Ative "Usar minha voz clonada" no painel
 
@@ -160,9 +160,11 @@ MODEL = "mistral"      # padrão
 
 ---
 
-## 📄 Licença
+##  Licença
 
 MIT License — use, modifique e distribua à vontade.
+
+Made with vibe coding with Claude!
 
 ---
 
