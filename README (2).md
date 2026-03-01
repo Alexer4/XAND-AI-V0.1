@@ -7,7 +7,7 @@ It's not a generic chatbot — it's a digital alter ego trained on **your own da
 
 ---
 
-## 🧠 What is XAND.AI?
+##  What is XAND.AI?
 
 The core idea is simple: **the more you use and log, the smarter it gets about you.**
 
@@ -21,21 +21,21 @@ All of this becomes real context for the language model — no generic advice.
 
 ---
 
-## ✨ Features v0.1
+##  Features v0.1
 
-- 💬 **Multiple chats** with locally saved history (SQLite)
-- 🎯 **Routine Chat** dedicated to smart planning
-- 📅 **Weekly routine panel** with schedule, goals and progress tracking
-- 📋 **Daily log** — energy, focus, study hours, wins and improvements
-- 📊 **Real-time metrics** on sidebar (avg energy, focus, hours, decision success rate)
-- 🎙️ **Voice input** — speak instead of type (local Whisper)
-- 🔊 **Voice response** — XAND.AI replies in audio (PT-BR)
-- 🧩 **Decision tracking** — log choices and outcomes so the AI learns your patterns
-- 🔒 **100% local** — your data never leaves your computer
+-  **Multiple chats** with locally saved history (SQLite)
+-  **Routine Chat** dedicated to smart planning
+-  **Weekly routine panel** with schedule, goals and progress tracking
+-  **Daily log** — energy, focus, study hours, wins and improvements
+-  **Real-time metrics** on sidebar (avg energy, focus, hours, decision success rate)
+-  **Voice input** — speak instead of type (local Whisper)
+-  **Voice response** — XAND.AI replies in audio (PT-BR)
+-  **Decision tracking** — log choices and outcomes so the AI learns your patterns
+-  **100% local** — your data never leaves your computer
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 | Layer | Technology |
 |---|---|
@@ -48,7 +48,7 @@ All of this becomes real context for the language model — no generic advice.
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -79,7 +79,7 @@ Browser opens automatically at `http://localhost:8000`.
 
 ---
 
-## 📁 Project structure
+##  Project structure
 
 ```
 xand-ai/
@@ -102,10 +102,10 @@ xand-ai/
 
 ---
 
-## 📊 How the AI learns about you
+##  How the AI learns about you
 
 ### Daily log
-Click 📋 at the end of each day and fill in:
+Click  at the end of each day and fill in:
 - Energy and focus levels (0-10)
 - Study hours and questions solved
 - What went well and what needs improvement
@@ -130,7 +130,7 @@ Paste your weekly schedule in structured format and XAND.AI uses it to plan and 
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 ### Switch the language model
 In `backend/llm.py`:
@@ -147,7 +147,7 @@ MODEL = "mistral"      # default
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Energy/focus evolution charts over time
 - [ ] Personal data fine-tuning
@@ -160,8 +160,8 @@ MODEL = "mistral"      # default
 
 ---
 
-## 📄 License
-
+##  License
+Vibe coding with Claude.
 MIT License — use, modify and distribute freely.
 
 ---
