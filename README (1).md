@@ -35,7 +35,7 @@ Tudo isso vira contexto real para o modelo de linguagem — nada de conselhos ge
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 | Camada | Tecnologia |
 |---|---|
@@ -48,7 +48,7 @@ Tudo isso vira contexto real para o modelo de linguagem — nada de conselhos ge
 
 ---
 
-## 🚀Instalação
+## Instalação
 
 ### Pré-requisitos
 
@@ -79,7 +79,7 @@ O navegador abre automaticamente em `http://localhost:8000`.
 
 ---
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 xand-ai/
@@ -147,7 +147,7 @@ MODEL = "mistral"      # padrão
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Gráficos de evolução de energia/foco ao longo do tempo
 - [ ] Fine-tuning com dados pessoais
